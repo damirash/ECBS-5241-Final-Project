@@ -1,0 +1,20 @@
+	(1)
+VARIABLES	infant_mortality
+	
+health_exp	-0.476***
+	(0.0558)
+maternal_mortality	0.0101
+	(0.00793)
+unempl	-0.129
+	(0.128)
+fertility	0.418
+	(0.295)
+population	0.140***
+	(0.0375)
+Constant	2.589***
+	(0.744)
+	
+Observations	27
+R-squared	0.906
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

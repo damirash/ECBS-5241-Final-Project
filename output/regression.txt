@@ -1,0 +1,24 @@
+	(1)
+VARIABLES	infant_mortality
+	
+health_exp	-0.332
+	(0.205)
+school_enroll	-0.0622
+	(1.096)
+maternal_mortality	0.0103
+	(0.00720)
+unempl	-0.165
+	(0.120)
+fertility	0.200
+	(0.286)
+gdp_per_capita	-0.309
+	(0.317)
+population	0.153***
+	(0.0382)
+Constant	4.997
+	(6.038)
+	
+Observations	27
+R-squared	0.911
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
