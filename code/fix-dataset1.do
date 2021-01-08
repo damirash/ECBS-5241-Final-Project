@@ -1,4 +1,4 @@
-*Import Infant Mortality. csv (main dataset)
+*Import Infant Mortality.csv (main dataset)
 import delimited "${dir_main}\data\raw\Infant-Mortality.csv", varnames(1) bindquotes(strict) encoding("utf-8") clear
 
 *Generate numeric id for each country in the region for future merging purposes
