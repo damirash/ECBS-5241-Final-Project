@@ -9,8 +9,8 @@ to be run, all other scripts are referenced there and saved in the "code" folder
 
 -GDP dataset was analyzed in Python, the work is shown in the "Python work.ipynb" file
 
--'''IMPORTANT''': Before running the main script, please open main-do-file.do and change line 2 (shown below) to match the directory where you stored the files in your computer
-   ''global dir_main "C:\Users\exile\Documents\final_project" ''
+-IMPORTANT: Before running the main script, please open main-do-file.do and change line 2 (shown below) to match the directory where you stored the files in your computer
+   global dir_main "C:\Users\exile\Documents\final_project" 
    
 ## Data:
 1. Data file: Infant-Mortality.csv
