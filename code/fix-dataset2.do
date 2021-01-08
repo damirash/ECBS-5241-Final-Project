@@ -1,4 +1,4 @@
-*Import GDP. csv (additional dataset)
+*Import GDP.csv (additional dataset)
 import delimited "${dir_main}\data\raw\GDP-Worldbank.csv", varnames(1) bindquotes(strict) encoding("utf-8") clear
 
 *Generate numeric id for each country in the region for future merging purposes
