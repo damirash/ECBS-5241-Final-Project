@@ -21,3 +21,7 @@ outreg2 using "${dir_main}\output\regression.txt", replace
 drop gdp_per_capita school_enroll
 reg infant_mortality health_exp  maternal_mortality unempl fertility population, robust
 outreg2 using "${dir_main}\output\regression2.txt", replace
+
+*Save the dataset
+save "${dir_main}\data\derived\MAIN_DATA.dta", replace
+
