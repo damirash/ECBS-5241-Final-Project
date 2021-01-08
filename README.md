@@ -5,7 +5,7 @@ To find the effect of health expenditure on infant mortality in the countries of
    
 ## Instructions
 -The main script is called "main-do-file.do". This is the only script that needs
-to be run, all other scripts are referenced there and saved in the "code" folder. The data used in all scripts is in the folders "raw" and "derived" of the folder "data". Graph and regression tables are created inside the "output" folder.
+to be run in STATA, all other scripts are referenced there and were saved in the "code" folder. The data used in all scripts is in the folders "raw" and "derived" of the folder "data". Graph and regression tables are created inside the "output" folder.
 
 -GDP dataset was analyzed in Python, the work is shown in the "Python work.ipynb" file
 
