@@ -13,10 +13,8 @@ to be run in STATA, all other scripts are referenced there and were saved in the
    global dir_main "C:\Users\exile\Documents\final_project" 
    
 ## Data:
-1. Data file: Infant-Mortality.csv
-Source: World Development Indicators (web)
-2. Data file: GDP-Worldbank
-Source: The World Bank (web)
+1. Data file: Infant-Mortality.csv (Source: World Development Indicators (web))
+2. Data file: GDP-Worldbank.csv (Source: The World Bank (web))
 
 ## Results
 The results from the OLS model showed that increased health expenditure reduced infant mortality at 1% level of significance. An increase in total health expenditure per capita was negatively associated with infant mortality. A 1% increase in total health expenditure per capita was found to be associated with a reduction in infant mortality of approximately 0.475%.
