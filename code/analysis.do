@@ -1,3 +1,4 @@
+
 *Use new main dataset for analysis purposes
 use "${dir_main}\data\derived\MAIN_DATA.dta", clear
 
