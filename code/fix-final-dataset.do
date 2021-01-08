@@ -1,4 +1,3 @@
-
 *Transform the variables into logs for future regression and interpetation purposes
 local logvarlist infant_mortality health_exp school_enroll unempl fertility population gdp_per_capita
  foreach var in `logvarlist' {
