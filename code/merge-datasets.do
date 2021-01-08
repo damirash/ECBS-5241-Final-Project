@@ -1,3 +1,4 @@
+
 *Use main dataset as master dataset
 use "${dir_main}\data\derived\data_without_gdp.dta", clear
 
