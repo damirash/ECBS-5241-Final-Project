@@ -1,1 +1,2 @@
+
 ssc install outreg2
